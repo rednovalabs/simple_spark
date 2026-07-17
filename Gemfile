@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :development, :test do
-  gem 'bundler', '~> 1.6'
+  gem 'bundler', '~> 2.4.19'
   gem 'rake', '~> 0.9.6'
   gem 'rspec', '~> 3.4.0'
   gem 'rspec-nc', '~> 0'
